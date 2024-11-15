@@ -31,3 +31,6 @@ Untuk menginstal dependensi yang dibutuhkan, jalankan perintah berikut:
 
 ```bash
 pip install opencv-python pillow
+
+```
+### Text README.md, AI Generated, males ngetik hehehe

@@ -1,10 +1,10 @@
-accessible
-buffer
-x
-//? Header Files and namespaces
-#include<bits/stdc++.h>
-using namespace std;
-x
-//? Code Shortners
-#define endl '\n'
-#define PannDev ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+A
+B
+C
+D
+E
+F
+G
+H
+C
+D
